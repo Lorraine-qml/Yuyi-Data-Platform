@@ -1,0 +1,13 @@
+﻿node_modules/
+app/dist/
+report_src/dist/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+*.log
+.vite/
+.DS_Store
+Thumbs.db
+*.sw?
+*.tsbuildinfo
